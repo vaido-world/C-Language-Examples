@@ -5,7 +5,7 @@ int main () {
 	// NULL terminated string is the original name for the String datatype in C language.
 	// \0 is a NULL terminator for the strings.
 	
-	// Manual construction of the character NULL terminated string.
+	// Manual construction of the NULL terminated string.
 	//  ____________________________________________
 	// | Array Position: 0 1 2 3 4 5 6 7 8 9 10 11 |
 	// | Array Value   : H e l l o   W o r l d  \0 |
