@@ -16,7 +16,7 @@ int main () {
 	// | string    is a variable name.                                 |
 	// |  [12]     is a datatype length in bytes.                      |
 	// |                                                               |
-	// |                this is a char initializer.                    |
+	// |                This is a char initializer.                    |
 	// |  {'H', 'e', 'l', 'l', 'o', ' ', 'W', 'o', 'r', 'l', 'd', '\0'}|  
 	// |_______________________________________________________________|
 	
